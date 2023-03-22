@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PHPMaster88\\libphp\\": "src/"
+            "PHPMaster88\\": "src/"
         }
     }
 }
