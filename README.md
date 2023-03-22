@@ -1,0 +1,2 @@
+# phpMs
+Master Senestro
