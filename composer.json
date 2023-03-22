@@ -21,5 +21,7 @@
         "psr-4": {
             "PHPMaster88\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
