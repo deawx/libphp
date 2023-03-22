@@ -1,2 +1,2 @@
-# phpMs
-Master Senestro
+# libPHP
+
