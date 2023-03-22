@@ -1,0 +1,24 @@
+{
+    "name": "rakibtg/sleekdb",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Yusuf Habila",
+            "email": "Senestro88@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+    },
+    "autoload": {
+        "classmap": [
+            "src/phpMs.php"
+        ],
+        "psr-4": {
+            "masterSenestro\\": "src/"
+        }
+    }
+}
