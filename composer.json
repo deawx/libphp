@@ -1,6 +1,8 @@
 {
     "name": "phpmaster88/libphp",
-    "description": "",
+    "version": "1.0.0",
+    "keywords": ["php", "library"],
+    "description": "libphp a PHP Master library",
     "type": "library",
     "license": "MIT",
     "authors": [
