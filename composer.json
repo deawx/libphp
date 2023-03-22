@@ -1,5 +1,6 @@
 {
-    "name": "rakibtg/sleekdb",
+    "name": "phpmaster88/libphp",
+    "version": "1.0.0",
     "description": "",
     "type": "library",
     "license": "MIT",
@@ -7,18 +8,18 @@
         {
             "name": "John Yusuf Habila",
             "email": "Senestro88@gmail.com",
-            "role": "Developer"
+            "role": "developer"
         }
     ],
+    "support": {
+        "email": "Senestro88@gmail.com"
+    },
     "require": {
         "php": ">=7.0",
     },
     "autoload": {
-        "classmap": [
-            "src/phpMs.php"
-        ],
         "psr-4": {
-            "masterSenestro\\": "src/"
+            "PHPMaster88\\libphp\\": "src/"
         }
     }
 }
