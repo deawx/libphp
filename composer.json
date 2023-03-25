@@ -18,10 +18,16 @@
         "php": ">=7.0"
     },
     "autoload": {
+        "files": [
+            "src/init.lib.php"
+        ],
         "psr-4": {
             "PHPMaster88\\": "src/"
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
 }
