@@ -19,7 +19,7 @@
     },
     "autoload": {
         "files": [
-            "src/init.lib.php"
+            "src/initClasses.lib.php"
         ],
         "psr-4": {
             "PHPMaster88\\": "src/"
