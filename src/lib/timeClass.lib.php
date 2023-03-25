@@ -7,7 +7,7 @@
      * For the full copyright and license information, please view the LICENSE
      * file that was distributed with this source code.
      */
-    namespace PHPMaster\lib;
+    namespace PHPMaster88\lib;
 	class timeClass{
 		// PRIVATE PROPERTIES
         private $unix = 0;
