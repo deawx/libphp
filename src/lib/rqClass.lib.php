@@ -7,7 +7,7 @@
      * For the full copyright and license information, please view the LICENSE
      * file that was distributed with this source code.
      */
-    namespace PHPMaster88\lib;
+    namespace PHPMaster\lib;
 	class rqClass{
 		// PRIVATE PROPERTIES
 		private $requestMethods = array('GET', 'POST', 'HEAD');

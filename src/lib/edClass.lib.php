@@ -7,7 +7,7 @@
      * For the full copyright and license information, please view the LICENSE
      * file that was distributed with this source code.
      */
-    namespace PHPMaster88\lib;
+    namespace PHPMaster\lib;
 	class edClass{
 		// PRIVATE PROPERTIES
 		private $iv = "a7e0a4a8397efe40"; // Don't change value unless the Developer
