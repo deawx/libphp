@@ -22,7 +22,7 @@
             "src/initClasses.lib.php"
         ],
         "psr-4": {
-            "PHPMaster88\\": "src/"
+            "PHPMaster88\\lib\\": "src/"
         }
     },
     "minimum-stability": "dev",
