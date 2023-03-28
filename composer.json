@@ -1,12 +1,12 @@
 {
     "name": "phpmaster88/libphp",
-    "description": "libphp a PHP Master library",
+    "description": "PHP master library",
     "keywords": ["php", "library"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "John Yusuf Habila",
+            "name": "Senestro",
             "email": "Senestro88@gmail.com",
             "role": "developer"
         }
@@ -18,11 +18,8 @@
         "php": ">=7.0"
     },
     "autoload": {
-        "files": [
-            "src/initClasses.lib.php"
-        ],
         "psr-4": {
-            "PHPMaster88\\lib\\": "src/"
+            "PHPMaster88\\libphp\\": "src/"
         }
     },
     "minimum-stability": "dev",
